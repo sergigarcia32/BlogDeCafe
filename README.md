@@ -27,4 +27,4 @@ Bienvenido al **BlogDeCafe** de **Sergi garcía jiménez**. Este proyecto es un 
 2. **Navega al directorio del proyecto**:
     ```bash
     cd blogdecafe
-    ``
+    ```
