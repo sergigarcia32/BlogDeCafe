@@ -18,6 +18,11 @@ Bienvenido al **BlogDeCafe** de **Sergi garcía jiménez**. Este proyecto es un 
 - **CSS**: Estilización del blog, incluyendo diseño responsivo y efectos visuales.
 - **JavaScript**: Funcionalidades interactivas y manejo de eventos.
 
+##  Crea una carpeta img
+
+Crea una carpeta img dentro de la raíz del proyecto y pon las imagenes de la siguiente url:
+https://drive.google.com/drive/folders/1y7WLiln2YVWmIpS74RTKG4SewD3GiBQQ?usp=drive_link
+
 ## 📈 Cómo Ejecutar el Proyecto
 
 1. **Clona el repositorio**:
